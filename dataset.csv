@@ -1,0 +1,11 @@
+question,answer
+"What is ML?","ML means training a computer using data."
+"What is AI?","AI means making machines think like humans."
+"What is Deep Learning?","Deep Learning uses neural networks to learn from data."
+"What is a Dataset?","A dataset is a collection of data used for training."
+"What is a Model?","A model is a program that has learned patterns from data."
+"What is Training?","Training means teaching a model using examples."
+"What is Testing?","Testing checks how well the model works on new data."
+"What is Supervised Learning?","Learning with labeled data is supervised learning."
+"What is Unsupervised Learning?","Learning patterns without labels is unsupervised learning."
+"What is Accuracy?","Accuracy measures how correct the model's predictions are."
